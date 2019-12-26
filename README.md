@@ -5,17 +5,18 @@
 This is my Gentoo kernel config file
 
 My computer
--CPU	        :	Intel E3-1240 v2
 
--Memory	      :	Kingston 8G x 2
+- CPU	        :	Intel E3-1240 v2
 
--Main board	  :	ASUS P8-B75-V
+- Memory	      :	Kingston 8G x 2
 
--Graphics card:	Sapphire R9 270X
+- Main board	  :	ASUS P8-B75-V
 
--Network card	:	Broadcom BCM4360 + Realtek RTL8111/8169
+- Graphics card:	Sapphire R9 270X
 
--Sound card	  :	Realtek ALC887
+- Network card	:	Broadcom BCM4360 + Realtek RTL8111/8169
 
--hard disk	  :	500G HDD(win10) + 250G HDD(gentoo)
+- Sound card	  :	Realtek ALC887
+
+- hard disk	  :	500G HDD(win10) + 250G HDD(gentoo)
 
